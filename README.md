@@ -2,6 +2,8 @@
 
 A cheerful, beginner-friendly K-pop dance course website for Lund and Malmö. Lundance helps people discover a class, compare simple course packages, and request a spot in a lightweight booking flow.
 
+You can visit through this link: https://xinlei1126.github.io/lundance/
+
 ## Project idea and plan
 
 - **What:** A responsive frontend for a local K-pop dance course.
